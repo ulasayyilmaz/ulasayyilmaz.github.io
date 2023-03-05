@@ -124,6 +124,15 @@
     margin-bottom: .5rem;
 }
 
+.card-body2 img {
+    width: 60%;
+    height: auto;
+    align-items: stretch;
+    display:block;
+    margin-bottom: .5rem;
+}
+
+
 @media (max-width:375px) {
     .card-header {
         padding-top: .4rem !important;
@@ -145,6 +154,10 @@
     }
     .card-body img {
         margin-bottom: .8rem;
+    }
+    .card-body2 img {
+        margin-bottom: .8rem;
+        align-self: stretch;
     }
 }
 

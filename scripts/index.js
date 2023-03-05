@@ -36,3 +36,4 @@ for (i = 0; i < starSpans.length; i++) {
 function numberWithCommas(x) {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
+
