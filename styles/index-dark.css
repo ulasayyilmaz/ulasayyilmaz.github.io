@@ -6,8 +6,9 @@
     --secondary-text-color: rgba(255, 255, 255, 0.9);
     --primary-text-on-primary-color: #FFFFFF;
     --secondary-text-on-primary-color: #e5e5f9;
-    --theme-background-color: #242160;
-    --primary-color: #601a6a;
+    /*0004ffa5*/
+    --theme-background-color: #0004ffa5;
+    --primary-color: #0a1871eb;
     --primary-color-lighter: #211e7a;
     --secondary-color: #360074;
 }
