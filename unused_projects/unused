@@ -1,0 +1,46 @@
+
+    <div class="section section-features bg-gray text-light text-center">
+        <div class="container grid-lg">
+            <h2>My Past Projects</h2>
+            <p class="text-secondary">
+                These are the projects I worked on in the past!
+            </p>
+            <div class="columns">
+                <div class="column col-4 col-xs-12">
+                    <div class="card text-center">
+                        <div class="card-header"><span class="card-title">Digiboard</span></div>
+                        <div class="card-body">
+                            <img src="images/apps/digi.png" alt="Digiboard" loading="lazy" />
+                            Digiboard is the centralized events hub of the Claremont Colleges.
+                            Check it out on <a href="https://apps.apple.com/app/digiboard/id6444110895">App Store</a> and <a href="https://github.com/HonestlyAbe/digiboardapp.git" target="_blank">GitHub</a>.
+                            I worked as a product manager, conducting interviews to pinpoint customer painpoints and devise a product roadmap,
+                            designing app graphics on Canva. 
+                        </div>
+                    </div>
+                </div>
+                <div class="column col-4 col-xs-12">
+                    <div class="card text-center">
+                        <div class="card-header"><span class="card-title">GoodChange</span></div>
+                        <div class="card-body">
+                            <img src="images/apps/GC.png" alt="GoodChange" loading="lazy" />
+                            GoodChange is an app that facilitates donating to different charities! Check it out on <a href="https://github.com/HonestlyAbe/gc-mvp-backend.git"
+                                target="_blank">GitHub</a>.
+                            I worked as a front-end developer intern, designing app graphics on Canva and developing the respective code in Dart.  
+                        </div>
+
+                    </div>
+                </div>
+                <div class="column col-4 col-xs-12">
+                    <div class="card text-center">
+                        <div class="card-header"><span class="card-title">P-rotein </span></div>
+                        <div class="card-body">
+                            <img src="images/apps/P-rotein.png" alt="P-rotein" loading="lazy" />
+                            P-rotein is an ML project using random forests, XGBoost, Naive Bayes and Neural Networks that identifies intrinsically disordered proteins given aminoacid sequence, weight, hydropolarity and other molecular information. 
+                            Check it out on <a href="https://github.com/michellegarcia2000/p-rotein.git"
+                                target="_blank">GitHub</a>.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
